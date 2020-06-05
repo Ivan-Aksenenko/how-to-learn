@@ -1,0 +1,10 @@
+@import url(./-subline/khan__quote-author-subline.css);
+
+.khan__quote-author {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  margin-top: 36px;
+}
