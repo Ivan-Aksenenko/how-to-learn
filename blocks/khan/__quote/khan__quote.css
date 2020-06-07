@@ -1,10 +1,9 @@
-@import url(./-author/khan__quote-author.css);
+
 
 .khan__quote {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 34px;
   font-size: 24px;
-  font-weight: 400;
   margin-bottom: 36px;
   margin: 0;
   width: 790px;

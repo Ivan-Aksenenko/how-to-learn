@@ -1,4 +1,4 @@
-@import url(./-zone/resources__logo-zone.css);
+
 
 .resources__logo {
   width: 270px;
@@ -6,3 +6,9 @@
   margin-top: 80px;
   margin-bottom: 217px;
 }
+
+.resources__logo:hover {
+  transform: scale(1.2);
+  transition: 0.3s ease-in-out;
+}
+
