@@ -1,4 +1,14 @@
 .header__link {
   color: #2f80ed;
   text-decoration: none;
+  transition: 0.3s ease-in-out;
 }
+
+.header__link:hover{
+  transform: scale(1.2);
+  opacity: 0.8;
+  color: crimson;
+}
+
+
+
