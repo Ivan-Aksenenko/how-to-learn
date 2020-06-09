@@ -1,4 +1,4 @@
-@import url(how-to-learn/blocks/table/__text_theme_dark/table__text_theme_dark.css);
+@import url(__text_theme_dark/table__text_theme_dark.css);
 
 .table__text {
   margin-bottom: 20px;
